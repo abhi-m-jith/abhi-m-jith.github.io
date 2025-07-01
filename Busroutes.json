@@ -1,0 +1,2098 @@
+{
+  "KANNADIPARAMBA":{
+    "KANNUR":{
+      "ROUTES": 
+      {
+        "KANNUR VIA KAKKAD": [
+        {
+          "TIME": "6:15 AM",
+          "NAME": "GANGA"
+        },
+        {
+          "TIME": "7:10 AM",
+          "NAME": "GAZAL"
+        },
+        {
+          "TIME": "8:00 AM",
+          "NAME": "SANGEETH"
+        },
+        {
+          "TIME": "8:40 AM",
+          "NAME": "GAZAL"
+        },
+        {
+          "TIME": "9:50 AM",
+          "NAME": "TAJ"
+        },
+        {
+          "TIME": "12:25 PM",
+          "NAME": "TAJ"
+        },
+        {
+          "TIME": "12:30 PM",
+          "NAME": "GAZAL"
+        },
+        {
+          "TIME": "12:35 PM",
+          "NAME": "SANGEETH"
+        },
+        {
+          "TIME": "3:00 PM",
+          "NAME": "TAJ"
+        },
+        {
+          "TIME": "4:40 PM",
+          "NAME": "GAZAL"
+        },
+        {
+          "TIME": "5:00 PM",
+          "NAME": "SANGEETH"
+        },
+        {
+          "TIME": "6:15 PM",
+          "NAME": "TAJ"
+        }
+        ],
+        "KANNUR": [
+          {
+            "TIME": "5:55 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "6:05 AM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "6:15 AM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "6:30 AM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "6:40 AM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "6:50 AM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "7:10 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "7:20 AM",
+            "NAME": "ROYAL STAR"
+          },
+          {
+            "TIME": "7:25 AM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "7:35 AM",
+            "NAME": "ANJUSHA"
+          },
+          {
+            "TIME": "7:40 AM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "7:50 AM",
+            "NAME": "SANGEETH (THERU)"
+          },
+          {
+            "TIME": "8:00 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "8:05 AM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "8:15 AM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "8:21 AM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "8:26 AM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "8:35 AM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "8:40 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "8:45 AM",
+            "NAME": "REJA (THERU)"
+          },
+          {
+            "TIME": "8:55 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "9:05 AM",
+            "NAME": "ROYAL STAR"
+          },
+          {
+            "TIME": "9:15 AM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "9:17 AM",
+            "NAME": "SULTHAN (THERU)"
+          },
+          {
+            "TIME": "9:25 AM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "9:35 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "9:42 AM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "10:00 AM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "10:15 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "10:30 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "10:40 AM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "10:50 AM",
+            "NAME": "ANJUSHA"
+          },
+          {
+            "TIME": "10:55 AM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "11:00 AM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "11:15 AM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "11:20 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "11:25 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "11:35 AM",
+            "NAME": "REJA (THERU)"
+          },
+          {
+            "TIME": "11:40 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "11:55 AM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "12:00 PM",
+            "NAME": "SULTHAN (THERU)"
+          },
+          {
+            "TIME": "12:15 PM",
+            "NAME": "ROYAL STAR"
+          },
+          {
+            "TIME": "12:25 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "12:35 PM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "12:40 PM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "12:50 PM",
+            "NAME": "AMS"
+          },
+          {
+            "TIME": "1:00 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "1:10 PM",
+            "NAME": "SANGEETH (THERU)"
+          },
+          {
+            "TIME": "1:20 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "1:30 PM",
+            "NAME": "ANJUSHA"
+          },
+          {
+            "TIME": "1:40 PM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "1:50 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "2:00 PM",
+            "NAME": "REJA (THERU)"
+          },
+          {
+            "TIME": "2:10 PM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "2:20 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "2:30 PM",
+            "NAME": "SULTHAN (THERU)"
+          },
+          {
+            "TIME": "2:35 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "2:41 PM",
+            "NAME": "ROYAL STAR"
+          },
+          {
+            "TIME": "2:50 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "3:00 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "3:10 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "3:20 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "3:25 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "3:35 PM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "3:47 PM",
+            "NAME": "ANJUSHA"
+          },
+          {
+            "TIME": "4:00 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "4:10 PM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "4:20 PM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "4:25 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "4:31 PM",
+            "NAME": "SULTHAN (THERU)"
+          },
+          {
+            "TIME": "4:45 PM",
+            "NAME": "AMS"
+          },
+          {
+            "TIME": "4:55 PM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "5:05 PM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "5:15 PM",
+            "NAME": "ROYAL STAR"
+          },
+          {
+            "TIME": "5:20 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "5:30 PM",
+            "NAME": "SANGEETH (THERU)"
+          },
+          {
+            "TIME": "5:40 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "5:50 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "6:00 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "6:10 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "6:14 PM",
+            "NAME": "ANJUSHA"
+          },
+          {
+            "TIME": "6:20 PM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "6:25 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "6:30 PM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "6:40 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "6:50 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "7:05 PM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "7:20 PM",
+            "NAME": "REJA (THERU)"
+          },
+          {
+            "TIME": "7:45 PM",
+            "NAME": "SANGEETH (THERU)"
+          },
+          {
+            "TIME": "8:05 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "8:30 PM",
+            "NAME": "SULTHAN (THERU)"
+          }
+        ],
+        "KANNUR VIA VARAM": [
+          {
+            "TIME": "1:00 PM",
+            "NAME": "KSRTC"
+          },
+          {
+            "TIME": "4:30 PM",
+            "NAME": "KSRTC"
+          }
+        ]
+      }
+    },
+    "KAMBIL":{
+      "ROUTES":
+      {
+        "KAMBIL": [
+          {
+            "TIME": "6:40 AM",
+            "NAME": "SAJITHA"
+          },
+          {
+            "TIME": "7:20 AM",
+            "NAME": "KSRTC"
+          },
+          {
+            "TIME": "7:35 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "8:00 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "8:40 AM",
+            "NAME": "SAJITHA"
+          },
+          {
+            "TIME": "8:55 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "9:25 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "10:00 AM",
+            "NAME": "ANJUSHA"
+          },
+          {
+            "TIME": "10:10 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "10:30 AM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "10:50 AM",
+            "NAME": "KSRTC"
+          },
+          {
+            "TIME": "11:10 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "11:50 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "12:10 PM",
+            "NAME": "SAJITHA"
+          },
+          {
+            "TIME": "12:50 PM",
+            "NAME": "ANJUSHA"
+          },
+          {
+            "TIME": "1:30 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "1:40 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "2:15 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "2:25 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "2:50 PM",
+            "NAME": "ANJUSHA"
+          },
+          {
+            "TIME": "3:10 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "3:35 PM",
+            "NAME": "SAJITHA"
+          },
+          {
+            "TIME": "4:25 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "5:15 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "5:25 PM",
+            "NAME": "ANJUSHA"
+          },
+          {
+            "TIME": "5:35 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "6:25 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "6:40 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "7:15 PM",
+            "NAME": "SAJITHA"
+          },
+          {
+            "TIME": "8:30 PM",
+            "NAME": "ANJUSHA"
+          }
+        ]
+      }
+    },
+    "TALIPARAMBA":{
+      "ROUTES":
+      {
+        "TALIPARAMBA": [
+          {
+            "TIME": "7:20 AM",
+            "NAME": "KSRTC"
+          },
+          {
+            "TIME": "7:35 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "8:00 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "8:05 AM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "8:45 AM",
+            "NAME": "OSCAR"
+          },
+          {
+            "TIME": "8:55 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "10:10 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "10:50 AM",
+            "NAME": "KSRTC"
+          },
+          {
+            "TIME": "11:10 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "11:50 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "1:30 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "1:40 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "2:15 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "3:10 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "4:25 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "5:15 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "6:25 PM",
+            "NAME": "CHINNUKUTTAN"
+          }
+        ]
+      }
+    },
+    "PULUPIKADAVU":{
+      "ROUTES":
+      {
+        "PULUPIKADAVU": [
+          {
+            "TIME": "6:15 AM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "7:10 AM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "7:35 AM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "8:00 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "8:20 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "9:40 AM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "9:50 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "9:55 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "10:15 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "11:00 AM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "11:15 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "11:30 AM",
+            "NAME": "SULTHAN"
+          },
+          {
+            "TIME": "12:25 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "12:30 PM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "12:35 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "12:55 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "1:40 PM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "2:05 PM",
+            "NAME": "SULTHAN"
+          },
+          {
+            "TIME": "2:50 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "2:55 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "4:00 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "4:15 PM",
+            "NAME": "SULTHAN"
+          },
+          {
+            "TIME": "4:40 PM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "5:00 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "5:10 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "6:00 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "6:15 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "6:40 PM",
+            "NAME": "SULTHAN"
+          },
+          {
+            "TIME": "7:10 PM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "7:35 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "8:05 PM",
+            "NAME": "SULTHAN"
+          },
+          {
+            "TIME": "8:15 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "9:00 PM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "9:25 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "10:00 PM",
+            "NAME": "SULTHAN"
+          }
+        ]
+      }
+    },
+    "PALLIPARAMBA":{
+      "ROUTES":
+      {
+        "PALLIPARAMBA": [
+          {
+            "TIME": "7:35 AM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "8:10 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "8:20 AM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "8:35 AM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "9:30 AM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "10:10 AM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "10:25 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "10:40 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "11:00 AM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "11:15 AM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "11:35 AM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "12:00 PM",
+            "NAME": "AMS"
+          },
+          {
+            "TIME": "12:30 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "1:10 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "1:20 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "1:45 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "2:10 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "2:40 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "3:30 PM",
+            "NAME": "AMS"
+          },
+          {
+            "TIME": "3:40 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "4:15 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "4:40 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "5:00 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "5:40 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "6:00 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "6:30 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "7:10 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "7:25 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "8:00 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "8:15 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "8:40 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "9:30 PM",
+            "NAME": "RUKSANA"
+          }
+        ]
+      }
+    },
+    "VARAMKADAV":{
+      "ROUTES":
+      {
+        "VARAMKADAV": [
+          {
+            "TIME": "8:20 AM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "9:00 AM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "10:30 AM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "12:10 PM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "1:25 PM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "3:35 PM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "4:25 PM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "5:50 PM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "6:55 PM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "8:00 PM",
+            "NAME": "NAVAJEEVAN"
+          }
+        ],
+        "KAMBIL": [
+          {
+            "TIME": "6:40 AM",
+            "NAME": "SAJITHA"
+          },
+          {
+            "TIME": "7:20 AM",
+            "NAME": "KSRTC"
+          },
+          {
+            "TIME": "7:35 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "8:00 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "8:40 AM",
+            "NAME": "SAJITHA"
+          },
+          {
+            "TIME": "8:55 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "9:25 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "10:00 AM",
+            "NAME": "ANJUSHA"
+          },
+          {
+            "TIME": "10:10 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "10:30 AM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "10:50 AM",
+            "NAME": "KSRTC"
+          },
+          {
+            "TIME": "11:10 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "11:50 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "12:10 PM",
+            "NAME": "SAJITHA"
+          },
+          {
+            "TIME": "12:50 PM",
+            "NAME": "ANJUSHA"
+          },
+          {
+            "TIME": "1:30 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "1:40 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "2:15 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "2:25 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "2:50 PM",
+            "NAME": "ANJUSHA"
+          },
+          {
+            "TIME": "3:10 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "3:35 PM",
+            "NAME": "SAJITHA"
+          },
+          {
+            "TIME": "4:25 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "5:15 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "5:25 PM",
+            "NAME": "ANJUSHA"
+          },
+          {
+            "TIME": "5:35 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "6:25 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "6:40 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "7:15 PM",
+            "NAME": "SAJITHA"
+          },
+          {
+            "TIME": "8:30 PM",
+            "NAME": "ANJUSHA"
+          }
+        ],
+        "TALIPARAMBA": [
+          {
+            "TIME": "7:20 AM",
+            "NAME": "KSRTC"
+          },
+          {
+            "TIME": "7:35 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "8:00 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "8:05 AM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "8:45 AM",
+            "NAME": "OSCAR"
+          },
+          {
+            "TIME": "8:55 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "10:10 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "10:50 AM",
+            "NAME": "KSRTC"
+          },
+          {
+            "TIME": "11:10 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "11:50 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "1:30 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "1:40 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "2:15 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "3:10 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "4:25 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "5:15 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "6:25 PM",
+            "NAME": "CHINNUKUTTAN"
+          }
+        ],
+        "PALLIPARAMBA": [
+          {
+            "TIME": "7:35 AM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "8:10 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "8:20 AM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "8:35 AM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "9:30 AM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "10:10 AM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "10:25 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "10:40 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "11:00 AM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "11:15 AM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "11:35 AM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "12:00 PM",
+            "NAME": "AMS"
+          },
+          {
+            "TIME": "12:30 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "1:10 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "1:20 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "1:45 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "2:10 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "2:40 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "3:30 PM",
+            "NAME": "AMS"
+          },
+          {
+            "TIME": "3:40 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "4:15 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "4:40 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "5:00 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "5:40 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "6:00 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "6:30 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "7:10 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "7:25 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "8:00 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "8:15 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "8:40 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "9:30 PM",
+            "NAME": "RUKSANA"
+          }
+        ],
+        "KANNUR VIA VARAM": [
+          {
+            "TIME": "1:00 PM",
+            "NAME": "KSRTC"
+          },
+          {
+            "TIME": "4:30 PM",
+            "NAME": "KSRTC"
+          }
+        ]
+      }
+    },
+    "MUNDERIMOTTA":{
+      "ROUTES":
+      {
+        "MUNDERIMOTTA": [
+          {
+            "TIME": "7:55 AM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "9:10 AM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "9:15 AM",
+            "NAME": "AMS"
+          },
+          {
+            "TIME": "9:40 AM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "9:50 AM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "12:15 PM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "12:30 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "1:50 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "3:10 PM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "4:00 PM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "5:00 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "5:50 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "6:25 PM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "8:30 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "9:00 PM",
+            "NAME": "GANGA"
+          }
+        ]
+      }
+    }
+  },
+  "PUTHIYATHERU":{
+    "KANNADIPARAMBA":{
+      "ROUTES":
+      {
+        "PULUPIKADAVU": [
+      {
+        "TIME": "6:00 AM",
+        "NAME": "GANGA"
+      },
+      {
+        "TIME": "6:55 AM",
+        "NAME": "GAZAL"
+      },
+      {
+        "TIME": "7:20 AM",
+        "NAME": "REJA"
+      },
+      {
+        "TIME": "7:45 AM",
+        "NAME": "SANGEETH"
+      },
+      {
+        "TIME": "9:25 AM",
+        "NAME": "GAZAL"
+      },
+      {
+        "TIME": "9:35 AM",
+        "NAME": "SANGEETH"
+      },
+      {
+        "TIME": "10:45 AM",
+        "NAME": "REJA"
+      },
+      {
+        "TIME": "11:15 AM",
+        "NAME": "SULTHAN"
+      },
+      {
+        "TIME": "12:15 PM",
+        "NAME": "GAZAL"
+      },
+      {
+        "TIME": "12:20 PM",
+        "NAME": "SANGEETH"
+      },
+      {
+        "TIME": "12:40 PM",
+        "NAME": "SANGEETH"
+      },
+      {
+        "TIME": "1:25 PM",
+        "NAME": "REJA"
+      },
+      {
+        "TIME": "1:50 PM",
+        "NAME": "SULTHAN"
+      },
+      {
+        "TIME": "3:45 PM",
+        "NAME": "SANGEETH"
+      },
+      {
+        "TIME": "4:00 PM",
+        "NAME": "SULTHAN"
+      },
+      {
+        "TIME": "4:25 PM",
+        "NAME": "GAZAL"
+      },
+      {
+        "TIME": "5:45 PM",
+        "NAME": "SANGEETH"
+      },
+      {
+        "TIME": "6:25 PM",
+        "NAME": "SULTHAN"
+      },
+      {
+        "TIME": "6:55 PM",
+        "NAME": "REJA"
+      },
+      {
+        "TIME": "7:20 PM",
+        "NAME": "SANGEETH"
+      },
+      {
+        "TIME": "7:50 PM",
+        "NAME": "SULTHAN"
+      },
+      {
+        "TIME": "8:45 PM",
+        "NAME": "REJA"
+      },
+      {
+        "TIME": "9:10 PM",
+        "NAME": "SANGEETH"
+      },
+      {
+        "TIME": "9:45 PM",
+        "NAME": "SULTHAN"
+      }
+        ],
+        "PALLIPARAMBA": [
+          {
+            "TIME": "7:20 AM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "7:55 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "8:05 AM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "8:20 AM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "9:15 AM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "9:55 AM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "10:10 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "10:25 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "10:45 AM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "11:00 AM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "11:20 AM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "11:45 AM",
+            "NAME": "AMS"
+          },
+          {
+            "TIME": "12:15 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "12:55 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "1:05 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "1:30 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "1:55 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "2:25 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "3:15 PM",
+            "NAME": "AMS"
+          },
+          {
+            "TIME": "3:25 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "4:00 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "4:25 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "4:45 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "5:25 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "5:45 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "6:15 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "6:55 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "7:10 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "7:45 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "8:00 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "8:25 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "9:15 PM",
+            "NAME": "RUKSANA"
+          }
+        ],
+        "VARAMKADAV": [
+          {
+            "TIME": "8:05 AM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "8:45 AM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "10:15 AM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "11:55 AM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "1:10 PM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "3:20 PM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "4:10 PM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "5:35 PM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "6:40 PM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "7:45 PM",
+            "NAME": "NAVAJEEVAN"
+          }
+        ],
+        "MUNDERIMOTTA": [
+          {
+            "TIME": "7:40 AM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "8:55 AM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "9:00 AM",
+            "NAME": "AMS"
+          },
+          {
+            "TIME": "9:25 AM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "9:35 AM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "12:00 PM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "12:15 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "1:35 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "2:55 PM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "3:45 PM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "4:45 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "5:35 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "6:10 PM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "8:15 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "8:45 PM",
+            "NAME": "GANGA"
+          }
+        ]
+      }
+    }
+  },
+  "KANNUR":{
+    "KANNADIPARAMBA":{
+      "ROUTES":
+      {
+        "PULUPIKADAVU": [
+          {
+            "TIME": "5:25 AM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "6:20 AM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "6:45 AM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "7:10 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "8:50 AM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "9:00 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "10:10 AM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "10:40 AM",
+            "NAME": "SULTHAN"
+          },
+          {
+            "TIME": "11:40 AM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "11:45 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "12:05 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "12:50 PM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "1:15 PM",
+            "NAME": "SULTHAN"
+          },
+          {
+            "TIME": "3:10 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "3:25 PM",
+            "NAME": "SULTHAN"
+          },
+          {
+            "TIME": "3:50 PM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "5:10 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "5:50 PM",
+            "NAME": "SULTHAN"
+          },
+          {
+            "TIME": "6:20 PM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "6:45 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "7:15 PM",
+            "NAME": "SULTHAN"
+          },
+          {
+            "TIME": "8:10 PM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "8:35 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "9:10 PM",
+            "NAME": "SULTHAN"
+          }
+        ],
+        "PALLIPARAMBA": [
+          {
+            "TIME": "6:45 AM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "7:20 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "7:30 AM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "7:45 AM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "8:40 AM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "9:20 AM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "9:35 AM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "9:50 AM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "10:10 AM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "10:25 AM",
+            "NAME": "GAZAL"
+          },
+          {
+            "TIME": "10:45 AM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "11:10 AM",
+            "NAME": "AMS"
+          },
+          {
+            "TIME": "11:40 AM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "12:20 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "12:30 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "12:55 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "1:20 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "1:50 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "2:40 PM",
+            "NAME": "AMS"
+          },
+          {
+            "TIME": "2:50 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "3:25 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "3:50 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "4:10 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "4:50 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "5:10 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "5:40 PM",
+            "NAME": "SHEENA"
+          },
+          {
+            "TIME": "6:20 PM",
+            "NAME": "RUKSANA"
+          },
+          {
+            "TIME": "6:35 PM",
+            "NAME": "SANGEETH"
+          },
+          {
+            "TIME": "7:10 PM",
+            "NAME": "SOPANAM"
+          },
+          {
+            "TIME": "7:25 PM",
+            "NAME": "NIRMALYAM"
+          },
+          {
+            "TIME": "7:50 PM",
+            "NAME": "FATHIMAS"
+          },
+          {
+            "TIME": "8:40 PM",
+            "NAME": "RUKSANA"
+          }
+        ],
+        "VARAMKADAV": [
+          {
+            "TIME": "7:30 AM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "8:10 AM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "9:40 AM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "11:20 AM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "12:35 PM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "2:45 PM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "3:35 PM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "5:00 PM",
+            "NAME": "NAVAJEEVAN"
+          },
+          {
+            "TIME": "6:05 PM",
+            "NAME": "FRIENDS"
+          },
+          {
+            "TIME": "7:10 PM",
+            "NAME": "NAVAJEEVAN"
+          }
+        ],
+        "MUNDERIMOTTA": [
+          {
+            "TIME": "7:05 AM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "8:20 AM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "8:25 AM",
+            "NAME": "AMS"
+          },
+          {
+            "TIME": "8:50 AM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "9:00 AM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "11:25 AM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "11:40 AM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "1:00 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "2:20 PM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "3:10 PM",
+            "NAME": "REJA"
+          },
+          {
+            "TIME": "4:10 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "5:00 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "5:35 PM",
+            "NAME": "GANGA"
+          },
+          {
+            "TIME": "7:40 PM",
+            "NAME": "SABIRA"
+          },
+          {
+            "TIME": "8:10 PM",
+            "NAME": "GANGA"
+          }
+        ]
+      }
+    }
+  },
+  "BAKKALAM":
+  {
+    "KANNADIPARAMBA":{
+      "ROUTES":
+      {
+        "TALIPARAMBA":[
+          {
+            "TIME": "7:30 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "9:05 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "9:25 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "10:25 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "11:35 AM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "2:00 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "2:05 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "4:10 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "4:30 PM",
+            "NAME": "KSRTC"
+          },
+          {
+            "TIME": "5:00 PM",
+            "NAME": "CHINNUKUTTAN"
+          },
+          {
+            "TIME": "6:50 PM",
+            "NAME": "CHINNUKUTTAN"
+          }
+        ]
+      }
+    }
+  }
+  
+}
